@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LandaAzul
-- 👀 I’m interested in the web developer and cybercesurity
-- 🌱 I’m currently learning the stack MERN and Wi-Fi Pentesting
+- 👀 I’m interested in the web developer, devOps and cybercesurity
+- 🌱 I’m currently learning the stack MERN and devOps
 - 💞️ I’m looking to collaborate on citAgenda, this is graduation proyect of appointments and turns
 - 📫 How to reach me, my email is landa98@hotmail.es or jdlanda98@gmail.com
 
